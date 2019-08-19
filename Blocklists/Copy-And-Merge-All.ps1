@@ -11,7 +11,7 @@ Write-Host "This will take a VERY long while"
 
 
 #Takes all of the hosts files we downloaded, merges them all together and removes duplicates
-Get-ChildItem -File -Recurse | Get-Content | Select-Object -unique > MergedLists.txt
+Get-ChildItem -File -Recurse | Get-Content | Select-Object -unique > "MergedLists.txt"
 
 
 
