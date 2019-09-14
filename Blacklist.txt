@@ -187,7 +187,6 @@ dntcl.qualaroo.com
 down02.adkuai8.com
 ds-comet.yahoo.g01.yahoodns.net
 dt.clnmde.com
-dv.phncdn.com
 dzc-metrics.mzstatic.com
 e.crashlytics.com
 e.reddit.com
@@ -256,6 +255,7 @@ js.tourtodayapps.com
 jsecoin.com
 khdrfan
 ks2.we2019.com
+l.facebook.com
 lb1.www.ms.akadns.net
 lcprd1.samsungcloudsolution.net
 libertatea.ro
@@ -368,6 +368,7 @@ scotiabank.com
 screenshots.firefox.com
 scribe.logs.roku.com
 sdad.guru
+seal-boston.bbb.org
 secure.adnxs.com
 secure.flashtalking.com
 segment.do-analytics.com
@@ -386,6 +387,7 @@ spynetalt.microsoft.com
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
+ssl.google-analytics.com
 st-mtk.oui-0x00199d.com
 static.2mdn.net
 static.audienceinsights.net
@@ -467,6 +469,7 @@ www.google-analytics.com
 www.googleadservices.com
 www.highspeedinternet.com
 www.jjoffers.com
+www.jobhat.com
 www.mediatek.com
 www.mycinema.pro
 www.samsungotn.net
