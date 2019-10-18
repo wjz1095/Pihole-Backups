@@ -139,3 +139,5 @@ https://hosts-file.net/ad_servers.txt
 	https://dnsbl.karelvanhecke.com/urlhaus.txt	
 	https://isc.sans.edu/feeds/suspiciousdomains_Low.txt	
 	https://dbl.oisd.nl/
+	https://gitlab.com/fanboystudios/baddieblock-for-pihole/raw/master/bADdieblock-for-pihole.txt
+	https://gitlab.com/fanboystudios/badass-bADdie-block/raw/master/badass%20bADdieblock.txt
