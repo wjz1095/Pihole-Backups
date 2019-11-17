@@ -31,6 +31,7 @@ activation.sls.microsoft.com
 activation.unity3d.com
 activity.windows.com
 activtrak.com
+ad.bdcraft.net
 adaway.org
 adblock.mahakala.is
 addons.mozilla.org
@@ -102,6 +103,7 @@ cdn.content.prod.cms.msn.com
 cdn.discordapp.com
 cdn.doublepimpssl.com
 cdn.engine.phn.doublepimp.com
+cdn.evergage.com
 cdn.fbsbx.com
 cdn.krxd.net
 cdn.mxpnl.com
@@ -113,9 +115,11 @@ cdn.ravenjs.com
 cdn.rawgit.com
 cdn.statstrk01.com
 cdn.taboola.com
+cdn.walkme.com
 cdn1-smallimg.phncdn.com
 cdn11.contentabc.com
 cdn1d-static-shared.phncdn.com
+cdn2.editmysite.com
 cdn4.mxpnl.com
 cdnapi.kaltura.com
 cdnjs.cloudflare.com
@@ -130,6 +134,7 @@ cfvod.kaltura.com
 chaseonline.chase.com
 chat-gateway-prod.chat.snapchat.com
 ci.phncdn.com
+cl.s10.exct.net
 clancy.spiceworks.com
 click.e.ea.com
 click.email-advanceautoparts.com
@@ -153,6 +158,7 @@ clientservices.googleapis.com
 cloud-consumer-asn.consumer.amp.cisco.com
 cm.phncdn.com
 comcast.com
+comcast.demdex.net
 connect.facebook.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -166,6 +172,7 @@ crash.steampowered.com
 crl.microsoft.com
 crl.sca1b.amazontrust.com
 crl.usertrust.com
+cs.phncdn.com
 cs9.wac.phicdn.net
 ctldl.windowsupdate.com
 cv.phncdn.com
@@ -196,6 +203,7 @@ di.phncdn.com
 digg.com
 discordapp.com
 displaycatalog.mp.microsoft.com
+dist.creeper.host
 djv99sxoqpv11.cloudfront.net
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
@@ -226,6 +234,7 @@ edge.quantserve.com
 eds.xboxlive.com
 em.phncdn.com
 etrk.asus.com
+ev-ph.rdtcdn.com
 ev.phncdn.com
 event.inner-active.mobi
 events.gfe.nvidia.com
@@ -243,6 +252,7 @@ firefox.settings.services.mozilla.com
 flic.kr
 fls-na.amazon.com
 fonts.googleapis.com
+forms.gle
 frsd.k12.nj.us
 fsa.zobj.net
 g.bing.com
@@ -341,6 +351,7 @@ m.spankbang.com
 m.xhamster.com
 m.youtube.com
 m1.nsimg.net
+m2.nsimg.net
 mail.google.com
 mail.yahoo.com
 mailsac.com
@@ -366,6 +377,7 @@ msftconnecttest.com
 msftncsi.com
 music.provider.plex.tv
 mvm.snapchat.com
+mybobs.com
 netdna.bootstrapcdn.com
 netflix.com
 news.provider.plex.tv
@@ -409,6 +421,7 @@ pandora.com
 pasta.estrongspro.duapps.com
 pastebin.com
 pdn.applovin.com
+personalfirewall.comodo.com
 photos-ugc.l.googleusercontent.com
 ping.avast.com
 ping.chartbeat.net
@@ -467,6 +480,7 @@ s1.symcb.com
 s2.symcb.com
 s3-1.amazonaws.com
 s3-ap-northeast-1.amazonaws.com
+s3-eu-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.amazonaws.com
 s3.symcb.com
@@ -480,6 +494,7 @@ sb-ssl.google.com
 scontent-iad3-1.cdninstagram.com
 scontent-lga3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
+sdx.xfinity.com
 secure-au.imrworldwide.com
 secure.avangate.com
 secure.bankofamerica.com
@@ -502,6 +517,7 @@ spade.twitch.tv
 spankbang.com
 spclient.wg.spotify.com
 speedtest.net
+spotify.com
 srv01.codefusion.technology
 srv02.codefusion.technology
 srv03.codefusion.technology
@@ -554,6 +570,7 @@ title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tlu.dl.delivery.mp.microsoft.com
 tomshardware.com
+track.easypost.com
 track.shipstation.com
 tracker.aletorrenty.pl
 tracker.best-torrents.net
@@ -568,11 +585,14 @@ tracker.leechers-paradise.org
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.pirateparty.gr
+tracker.publicbt.com
+tracker.publichd.eu
 tracker.pubt.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
 tracker.trackerfix.com
 tracker.vanitycore.co
+tracker.yify-torrents.com
 tracker.zer0day.to
 traffic.libsyn.com
 treasurydirect.gov
@@ -637,6 +657,7 @@ www.google.com
 www.googleapis.com
 www.gstatic.com
 www.hentai-foundry.com
+www.hostgator.com
 www.howtogeek.com
 www.hugedomains.com
 www.icloud.com
@@ -648,6 +669,7 @@ www.liveleak.com
 www.makemkv.com
 www.malwaredomainlist.com
 www.msftncsi.com
+www.mycinema.pro
 www.njfamilycare.org
 www.okcupid.com
 www.petenetlive.com
@@ -672,6 +694,7 @@ www.state.nj.us
 www.techrepublic.com
 www.techwalla.com
 www.tenforums.com
+www.thebassment.info
 www.theguardian.com
 www.thepiratebay.org
 www.treasurydirect.gov
@@ -695,7 +718,9 @@ xfinity.com
 xflight.xboxlive.com
 xhamster.com
 xkms.xbolive.com
+xleaks.club
 xnxx.com
+xshare.top
 xsts.auth.xboxlive.com
 xvideos.com
 xxx-tracker.com

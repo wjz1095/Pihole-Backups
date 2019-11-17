@@ -163,7 +163,6 @@ coordinator-production-28516768.us-east-1.elb.amazonaws.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 crypto-loot.com
-cs.phncdn.com
 cs1.wpc.v0cdn.net
 cs217.wac.deltacdn.net
 csm.sv.us.criteo.net
@@ -275,7 +274,6 @@ log2.nagirl.cn
 logger.instagram.com
 logs.roku.com
 m.me
-m2.nsimg.net
 mads.amazon-adsystem.com
 mads.amazon.com
 manifest.localytics.com
@@ -403,6 +401,7 @@ stun.spamanalyst.com
 sugarland.logs.roku.com
 sync.teads.tv
 syncplusconfig.s3.amazonaws.com
+t.ashemaletube.com
 t1-1.p-cdn.us
 t1-2.p-cdn.us
 t1-3.p-cdn.us
@@ -471,7 +470,6 @@ www.highspeedinternet.com
 www.jjoffers.com
 www.jobhat.com
 www.mediatek.com
-www.mycinema.pro
 www.samsungotn.net
 www.samsungrm.net
 www.sjtoffers.com

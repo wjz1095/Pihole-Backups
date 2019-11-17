@@ -3,6 +3,7 @@
 (^|\.)logs\.roku\.com$
 (^|\.)samsungads\.com$
 (^|\.)tplinkra\.com$
+(^|\.)trace\.svc\.ui\.com$
 (^|\.)xbcs\.net$
 (ads|logs)\.roku\.com$.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|info|site|club|host|party)$
 (ads|logs|cloudservices).roku.com$

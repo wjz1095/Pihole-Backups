@@ -138,6 +138,8 @@ https://hosts-file.net/ad_servers.txt
 	https://dnsbl.karelvanhecke.com/ut1-phi.txt	
 	https://dnsbl.karelvanhecke.com/urlhaus.txt	
 	https://isc.sans.edu/feeds/suspiciousdomains_Low.txt	
-	https://dbl.oisd.nl/
-	https://gitlab.com/fanboystudios/baddieblock-for-pihole/raw/master/bADdieblock-for-pihole.txt
-	https://gitlab.com/fanboystudios/badass-bADdie-block/raw/master/badass%20bADdieblock.txt
+	https://dbl.oisd.nl/	
+	https://any.andryou.com/oisddbl.txt	
+	https://cdn.andryou.com/oisddbl.txt	
+	https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt	
+	https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
