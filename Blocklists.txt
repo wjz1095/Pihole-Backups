@@ -143,3 +143,4 @@ https://hosts-file.net/ad_servers.txt
 	https://cdn.andryou.com/oisddbl.txt	
 	https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt	
 	https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
+	https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
