@@ -114,6 +114,7 @@ bench.utorrent.com
 black.ish.instagram.com
 bradesco.com.br
 brahe.apptimize.com
+braze.com
 bs.serving-sys.com
 bt-proxy-prod.elasticbeanstalk.com
 btlr.sharethrough.com
@@ -180,6 +181,8 @@ dc.ads.linkedin.com
 decide.alooma.com
 dev.vvv.facebook.com
 device-api.urbanairship.com
+device-metrics-us.amazon.com
+device-metrics-us2.amazon.com
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
 dntcl.qualaroo.com

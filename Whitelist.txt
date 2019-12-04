@@ -453,7 +453,10 @@ pubsub.plex.tv
 px.gfycat.com
 quadratec.com
 r1---sn-p5qlsnz6.googlevideo.com
+r2---sn-ab5l6nzy.googlevideo.com
+r2---sn-p5qlsnsk.googlevideo.com
 r2---sn-p5qlsnsy.googlevideo.com
+r2---sn-p5qs7n7s.googlevideo.com
 r4---sn-p5qs7nee.googlevideo.com
 r5---sn-p5qs7nes.googlevideo.com
 ransomwaretracker.abuse.ch
@@ -643,6 +646,7 @@ www.bankofamerica.com
 www.celebjihad.com
 www.celebritymoviearchive.com
 www.cnbc.com
+www.core77.com
 www.costco.com
 www.drivereasy.com
 www.dshield.org
@@ -660,8 +664,10 @@ www.hentai-foundry.com
 www.hostgator.com
 www.howtogeek.com
 www.hugedomains.com
+www.hunterdonskywarn.info
 www.icloud.com
 www.ip2location.com
+www.itwriting.com
 www.java.com
 www.joewein.net
 www.linkedin.com
