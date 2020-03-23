@@ -180,7 +180,6 @@ dbankcdn.com
 dc.ads.linkedin.com
 decide.alooma.com
 dev.vvv.facebook.com
-device-api.urbanairship.com
 device-metrics-us.amazon.com
 device-metrics-us2.amazon.com
 df.telemetry.microsoft.com
@@ -404,7 +403,6 @@ stun.spamanalyst.com
 sugarland.logs.roku.com
 sync.teads.tv
 syncplusconfig.s3.amazonaws.com
-t.ashemaletube.com
 t1-1.p-cdn.us
 t1-2.p-cdn.us
 t1-3.p-cdn.us
@@ -452,7 +450,6 @@ vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
-vortex.data.microsoft.com
 vrv-eec.etp-prod.com
 watson.live.com
 watson.ppe.telemetry.microsoft.com

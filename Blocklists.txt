@@ -142,5 +142,11 @@ https://hosts-file.net/ad_servers.txt
 	https://any.andryou.com/oisddbl.txt	
 	https://cdn.andryou.com/oisddbl.txt	
 	https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt	
-	https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
-	https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
+	https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt	
+	https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt	
+	https://raw.githubusercontent.com/d43m0nhLInt3r/tiktokblocklist/master/tiktokblocklist.txt	
+	https://raw.githubusercontent.com/evpne/tiktokblocklist/master/tiktokblocklist.txt	
+	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt	
+	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt	
+	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt	
+	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Skype/skypeblocklist.txt
