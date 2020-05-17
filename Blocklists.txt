@@ -1,152 +1,151 @@
-https://hosts-file.net/ad_servers.txt	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	
-	https://mirror1.malwaredomains.com/files/justdomains	
-	http://sysctl.org/cameleon/hosts	
-	https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist	
-	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	
-	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	
-	https://raw.githubusercontent.com/StevenBlack/hosts/aster/hosts	
-	https://hosts-file.net/grm.txt	
-	https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts	
-	https://v.firebog.net/hosts/static/w3kbl.txt	
-	https://adaway.org/hosts.txt	
-	https://v.firebog.net/hosts/AdguardDNS.txt	
-	https://v.firebog.net/hosts/Easylist.txt	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts	
-	https://v.firebog.net/hosts/Airelle-trc.txt	
-	https://v.firebog.net/hosts/Easyprivacy.txt	
-	https://v.firebog.net/hosts/Prigent-Ads.txt	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts	
-	https://v.firebog.net/hosts/Airelle-hrsk.txt	
-	https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt	
-	https://hosts-file.net/exp.txt	
-	https://hosts-file.net/emd.txt	
-	https://hosts-file.net/psh.txt	
-	https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt	
-	https://www.malwaredomainlist.com/hostslist/hosts.txt	
-	https://bitbucket.org/ethanr/dns-	
-	https://openphish.com/feed.txt	
-	https://v.firebog.net/hosts/Prigent-Malware.txt	
-	https://v.firebog.net/hosts/Prigent-Phishing.txt	
-	https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt	
-	https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt	
-	https://v.firebog.net/hosts/Shalla-mal.txt	
-	https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts	
-	https://v.firebog.net/hosts/BillStearns.txt	
-	https://www.dshield.org/feeds/suspiciousdomains_Low.txt	
-	http://www.joewein.net/dl/bl/dom-bl-base.txt	
-	https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt	
-	https://hostsfile.org/Downloads/hosts.txt	
-	http://someonewhocares.org/hosts/zero/hosts	
-	https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt	
-	https://raw.githubusercontent.com/vokins/yhosts/master/hosts	
-	http://winhelp2002.mvps.org/hosts.txt	
-	https://hostsfile.mine.nu/hosts0.txt	
-	https://v.firebog.net/hosts/Kowabit.txt	
-	https://adblock.mahakala.is	
-	https://v.firebog.net/hosts/static/SamsungSmart.txt	
-	http://dnsbl.dyndns.org:9080/mydnsblfeed.txt	
-	https://tspprs.com/dl/ads	
-	https://tspprs.com/dl/crypto	
-	https://tspprs.com/dl/drugs	
-	https://tspprs.com/dl/fraud	
-	https://tspprs.com/dl/main	
-	https://tspprs.com/dl/ransomware	
-	https://tspprs.com/dl/phishing	
-	https://tspprs.com/dl/misc	
-	https://tspprs.com/dl/malware	
-	https://tspprs.com/dl/scam	
-	https://tspprs.com/dl/spam	
-	https://tspprs.com/dl/tracking	
-	https://tspprs.com/dl/abuse	
-	https://gist.githubusercontent.com/ieperlingetje/fd5d73d83131a6781198195e99bf9ec7/raw	
-	https://pastebin.com/raw/a1TPEPfP	
-	https://github.com/AdBlocker-Reborn/Blocklist/blob/master/avhttps://github.com/AdBlocker-Reborn/Blocklist/blob/master/hosts	
-	https://github.com/AdBlocker-Reborn/Blocklist/blob/master/hosts_yhosts	
-	https://github.com/AdBlocker-Reborn/Blocklist/blob/master/receivers	
-	https://github.com/AdBlocker-Reborn/Blocklist/blob/master/services	
-	https://github.com/mikeh2010/BlockLists/blob/master/ADOBE_blocklist.txt	
-	https://github.com/mikeh2010/BlockLists/blob/master/Android_Ads	
-	https://raw.githubusercontent.com/mikeh2010/BlockLists/master/Hosts.all	
-	https://github.com/mikeh2010/BlockLists/blob/master/LG-blocklist.txt	
-	https://github.com/mikeh2010/BlockLists/blob/master/More-Youtube-Google-block	
-	https://github.com/mikeh2010/BlockLists/blob/master/YouTube_video_ads	
-	https://github.com/mikeh2010/BlockLists/blob/master/domainlist.txt	
-	https://github.com/socadmin/blocklists/blob/master/Malicious%20Nameservers.txt	
-	https://github.com/eegod/Blocklist/blob/master/list	
-	https://github.com/lowyiyiu/blocklist/blob/master/1.txt	
-	https://github.com/lowyiyiu/blocklist/blob/master/2.txt	
-	https://github.com/perksie/blocklist/blob/master/blacklist	
-	https://github.com/compliment/blocklist/blob/master/blocklist.txt	
-	https://github.com/Th3M3/blocklist/blob/master/hosts	
-	https://github.com/chella1cm/Blocklist/blob/master/Ad%20domains.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/Ad%20urls.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/Malware%20domains.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/Malware%20urls.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/Marketing%20domains.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/Phishing%20domains.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/Phishing%20urls.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/domains.txt	
-	https://github.com/chella1cm/Blocklist/blob/master/urls.txt	
-	https://filters.adtidy.org/extension/chromium/filters/11.txt	
-	https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/hosts	
-	https://starfireaerospace.com/files/script/pihole/mylobot-c2.txt	
-	https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt	
-	https://www.squidblacklist.org/downloads/dg-ads.acl	
-	https://www.squidblacklist.org/downloads/dg-malicious.acl	
-	https://zerodot1.gitlab.io/CoinBlockerLists/hosts	
-	https://zerodot1.gitlab.io/CoinBlockerLists/list.txt	
-	https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt	
-	https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt	
-	https://smokingwheels.github.io/Pi-hole/allhosts	
-	https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt	
-	https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Ads-tracker.txt	
-	https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/coinminer.txt	
-	https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Malware.txt	
-	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS	
-	https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt	
-	https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt	
-	https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt	
-	https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt	
-	https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/domains.txt	
-	https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt	
-	https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt	
-	https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt	
-	https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt	
-	https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt	
-	https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt	
-	https://dnsbl.karelvanhecke.com/adg-ad.txt	
-	https://dnsbl.karelvanhecke.com/adg-https://dnsbl.karelvanhecke.com/adg-spyware.txtmobile.txt	
-	https://dnsbl.karelvanhecke.com/airelle-ads.txt	
-	https://dnsbl.karelvanhecke.com/airelle-mal.txt	
-	https://dnsbl.karelvanhecke.com/airelle-trc.txt	
-	https://dnsbl.karelvanhecke.com/c2.txt	
-	https://dnsbl.karelvanhecke.com/dga.txt	
-	https://dnsbl.karelvanhecke.com/mwpatrol.txt	
-	https://dnsbl.karelvanhecke.com/openphish.txt	
-	https://dnsbl.karelvanhecke.com/openphish_30d.txt	
-	https://dnsbl.karelvanhecke.com/phishtank.txt	
-	https://dnsbl.karelvanhecke.com/shalla-adv.txt	
-	https://dnsbl.karelvanhecke.com/shalla-spyware.txt	
-	https://dnsbl.karelvanhecke.com/shalla-tracker.txt	
-	https://dnsbl.karelvanhecke.com/ut1-ads.txt	
-	https://dnsbl.karelvanhecke.com/ut1-mal.txt	
-	https://dnsbl.karelvanhecke.com/ut1-phi.txt	
-	https://dnsbl.karelvanhecke.com/urlhaus.txt	
-	https://isc.sans.edu/feeds/suspiciousdomains_Low.txt	
-	https://dbl.oisd.nl/	
-	https://any.andryou.com/oisddbl.txt	
-	https://cdn.andryou.com/oisddbl.txt	
-	https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt	
-	https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt	
-	https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt	
-	https://raw.githubusercontent.com/d43m0nhLInt3r/tiktokblocklist/master/tiktokblocklist.txt	
-	https://raw.githubusercontent.com/evpne/tiktokblocklist/master/tiktokblocklist.txt	
-	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt	
-	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt	
-	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt	
-	https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Skype/skypeblocklist.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts		
+https://mirror1.malwaredomains.com/files/justdomains		
+http://sysctl.org/cameleon/hosts		
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt		
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt		
+https://hosts-file.net/ad_servers.txt		
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist		
+https://raw.githubusercontent.com/StevenBlack/hosts/aster/hosts		
+https://hosts-file.net/grm.txt		
+https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts		
+https://v.firebog.net/hosts/static/w3kbl.txt		
+https://adaway.org/hosts.txt		
+https://v.firebog.net/hosts/AdguardDNS.txt		
+https://v.firebog.net/hosts/Easylist.txt		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts		
+https://v.firebog.net/hosts/Airelle-trc.txt		
+https://v.firebog.net/hosts/Easyprivacy.txt		
+https://v.firebog.net/hosts/Prigent-Ads.txt		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts		
+https://v.firebog.net/hosts/Airelle-hrsk.txt		
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt		
+https://hosts-file.net/exp.txt		
+https://hosts-file.net/emd.txt		
+https://hosts-file.net/psh.txt		
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt		
+https://www.malwaredomainlist.com/hostslist/hosts.txt		
+https://bitbucket.org/ethanr/dns-		
+https://openphish.com/feed.txt		
+https://v.firebog.net/hosts/Prigent-Malware.txt		
+https://v.firebog.net/hosts/Prigent-Phishing.txt		
+https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt		
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt		
+https://v.firebog.net/hosts/Shalla-mal.txt		
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts		
+https://v.firebog.net/hosts/BillStearns.txt		
+https://www.dshield.org/feeds/suspiciousdomains_Low.txt		
+http://www.joewein.net/dl/bl/dom-bl-base.txt		
+https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt		
+https://hostsfile.org/Downloads/hosts.txt		
+http://someonewhocares.org/hosts/zero/hosts		
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt		
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts		
+http://winhelp2002.mvps.org/hosts.txt		
+https://hostsfile.mine.nu/hosts0.txt		
+https://v.firebog.net/hosts/Kowabit.txt		
+https://adblock.mahakala.is		
+https://v.firebog.net/hosts/static/SamsungSmart.txt		
+http://dnsbl.dyndns.org:9080/mydnsblfeed.txt		
+https://tspprs.com/dl/ads		
+https://tspprs.com/dl/crypto		
+https://tspprs.com/dl/drugs		
+https://tspprs.com/dl/fraud		
+https://tspprs.com/dl/main		
+https://tspprs.com/dl/ransomware		
+https://tspprs.com/dl/phishing		
+https://tspprs.com/dl/misc		
+https://tspprs.com/dl/malware		
+https://tspprs.com/dl/scam		
+https://tspprs.com/dl/spam		
+https://tspprs.com/dl/tracking		
+https://tspprs.com/dl/abuse		
+https://gist.githubusercontent.com/ieperlingetje/fd5d73d83131a6781198195e99bf9ec7/raw		
+https://pastebin.com/raw/a1TPEPfP		
+https://github.com/AdBlocker-Reborn/Blocklist/blob/master/avhttps://github.com/AdBlocker-Reborn/Blocklist/blob/master/hosts		
+https://github.com/AdBlocker-Reborn/Blocklist/blob/master/hosts_yhosts		
+https://github.com/AdBlocker-Reborn/Blocklist/blob/master/receivers		
+https://github.com/AdBlocker-Reborn/Blocklist/blob/master/services		
+https://github.com/mikeh2010/BlockLists/blob/master/ADOBE_blocklist.txt		
+https://github.com/mikeh2010/BlockLists/blob/master/Android_Ads		
+https://raw.githubusercontent.com/mikeh2010/BlockLists/master/Hosts.all		
+https://github.com/mikeh2010/BlockLists/blob/master/LG-blocklist.txt		
+https://github.com/mikeh2010/BlockLists/blob/master/More-Youtube-Google-block		
+https://github.com/mikeh2010/BlockLists/blob/master/YouTube_video_ads		
+https://github.com/mikeh2010/BlockLists/blob/master/domainlist.txt		
+https://github.com/socadmin/blocklists/blob/master/Malicious%20Nameservers.txt		
+https://github.com/eegod/Blocklist/blob/master/list		
+https://github.com/lowyiyiu/blocklist/blob/master/1.txt		
+https://github.com/lowyiyiu/blocklist/blob/master/2.txt		
+https://github.com/perksie/blocklist/blob/master/blacklist		
+https://github.com/compliment/blocklist/blob/master/blocklist.txt		
+https://github.com/Th3M3/blocklist/blob/master/hosts		
+https://github.com/chella1cm/Blocklist/blob/master/Ad%20domains.txt		
+https://github.com/chella1cm/Blocklist/blob/master/Ad%20urls.txt		
+https://github.com/chella1cm/Blocklist/blob/master/Malware%20domains.txt		
+https://github.com/chella1cm/Blocklist/blob/master/Malware%20urls.txt		
+https://github.com/chella1cm/Blocklist/blob/master/Marketing%20domains.txt		
+https://github.com/chella1cm/Blocklist/blob/master/Phishing%20domains.txt		
+https://github.com/chella1cm/Blocklist/blob/master/Phishing%20urls.txt		
+https://github.com/chella1cm/Blocklist/blob/master/domains.txt		
+https://github.com/chella1cm/Blocklist/blob/master/urls.txt		
+https://filters.adtidy.org/extension/chromium/filters/11.txt		
+https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/hosts		
+https://starfireaerospace.com/files/script/pihole/mylobot-c2.txt		
+https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt		
+https://www.squidblacklist.org/downloads/dg-ads.acl		
+https://www.squidblacklist.org/downloads/dg-malicious.acl		
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts		
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt		
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt		
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt		
+https://smokingwheels.github.io/Pi-hole/allhosts		
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt		
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Ads-tracker.txt		
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/coinminer.txt		
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/Malware.txt		
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS		
+https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt		
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt		
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt		
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt		
+https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/domains.txt		
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt		
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt		
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt		
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt		
+https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt		
+https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt		
+https://dnsbl.karelvanhecke.com/adg-ad.txt		
+https://dnsbl.karelvanhecke.com/adg-https://dnsbl.karelvanhecke.com/adg-spyware.txtmobile.txt		
+https://dnsbl.karelvanhecke.com/airelle-ads.txt		
+https://dnsbl.karelvanhecke.com/airelle-mal.txt		
+https://dnsbl.karelvanhecke.com/airelle-trc.txt		
+https://dnsbl.karelvanhecke.com/c2.txt		
+https://dnsbl.karelvanhecke.com/dga.txt		
+https://dnsbl.karelvanhecke.com/mwpatrol.txt		
+https://dnsbl.karelvanhecke.com/openphish.txt		
+https://dnsbl.karelvanhecke.com/openphish_30d.txt		
+https://dnsbl.karelvanhecke.com/phishtank.txt		
+https://dnsbl.karelvanhecke.com/shalla-adv.txt		
+https://dnsbl.karelvanhecke.com/shalla-spyware.txt		
+https://dnsbl.karelvanhecke.com/shalla-tracker.txt		
+https://dnsbl.karelvanhecke.com/ut1-ads.txt		
+https://dnsbl.karelvanhecke.com/ut1-mal.txt		
+https://dnsbl.karelvanhecke.com/ut1-phi.txt		
+https://dnsbl.karelvanhecke.com/urlhaus.txt		
+https://isc.sans.edu/feeds/suspiciousdomains_Low.txt		
+https://dbl.oisd.nl/		
+https://any.andryou.com/oisddbl.txt		
+https://cdn.andryou.com/oisddbl.txt		
+https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt		
+https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt		
+https://raw.githubusercontent.com/d43m0nhLInt3r/tiktokblocklist/master/tiktokblocklist.txt		
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt		
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt		
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt		
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Skype/skypeblocklist.txt		
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
