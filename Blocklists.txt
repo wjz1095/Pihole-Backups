@@ -149,3 +149,5 @@ https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/t
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt		
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Skype/skypeblocklist.txt		
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt		
+https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
