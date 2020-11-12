@@ -4,7 +4,7 @@
 (^|\.)tplinkra\.com$
 (^|\.)xbcs\.net$
 (ads|logs)\.roku\.com$
-.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|info|site|club|host|party)$
+.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|site|club|host|party)$
 (ads|logs|cloudservices).roku.com$
 ^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
@@ -24,7 +24,7 @@
 ^tiles\..*services\.mozilla\.com$
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
-\.(af|biz|bizz|br|business|cn|cu|date|download|info|ga|jp|kp|kr|loan|mx|party|pizza|racing|ro|ru|sa|sg|so|su|th|top|tr|tw|ua|vn|wang)$
+\.(af|biz|bizz|br|business|cn|cu|date|download|ga|jp|kp|kr|loan|mx|party|pizza|racing|ro|ru|sa|sg|so|su|th|top|tr|tw|ua|vn|wang)$
 (\.|^)ypcdn\.com$
 (\.|^)bytecdn\.cn$
 (\.|^)bytedance\.com$
